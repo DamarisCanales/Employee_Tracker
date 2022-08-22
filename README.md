@@ -1,4 +1,4 @@
-# Columbia University Coding Bootcamp - SQL Challenge: Employee Tracker (challenge 12)
+# Employee Tracker (Challenge 12)
 
 ## Description
 
