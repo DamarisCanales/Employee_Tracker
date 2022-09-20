@@ -8,7 +8,6 @@ This command-line application leveraage Node.js, Inquirer, and MySQL to create, 
 ## Table of Contents 
 * [Usage](#usage)
 * [Credits](#credits)
-* [Tests](#tests)
 * [License](#license)
 
 
